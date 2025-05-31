@@ -35,3 +35,21 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### 環境設定ファイル ###
+.env
+application-local.properties
+application-prod.properties
+
+### Google認証関連 ###
+credentials.json
+tokens/
+
+### ログファイル ###
+*.log
+logs/
+
+### その他の機密情報 ###
+secrets/
+*.key
+*.pem

@@ -1,4 +1,4 @@
-package com.example.kr_api;
+package com.example.kr_platform;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

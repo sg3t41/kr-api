@@ -1,4 +1,4 @@
-# KR-API Bot
+# KR-Platform Bot
 
 Google カレンダーと連携して予定を Twitter に自動投稿する Spring Boot アプリケーション
 

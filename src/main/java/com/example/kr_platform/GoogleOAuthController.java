@@ -1,4 +1,4 @@
-package com.example.kr_api;
+package com.example.kr_platform;
 
 import com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow;
 import com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets;

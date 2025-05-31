@@ -1,4 +1,4 @@
-package com.example.kr_api;
+package com.example.kr_platform;
 
 import com.github.scribejava.core.builder.ServiceBuilder;
 import com.github.scribejava.core.model.OAuth1AccessToken;

@@ -1,4 +1,4 @@
-package com.example.kr_api;
+package com.example.kr_platform;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;

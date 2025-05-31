@@ -1,4 +1,4 @@
-package com.example.kr_api;
+package com.example.kr_platform;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
